@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-''' Function that return a list '''
+"""
+script 1
+"""
 import asyncio
 from typing import List
 
